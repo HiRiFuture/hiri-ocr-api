@@ -66,7 +66,7 @@ This API endpoint performs OCR (Optical Character Recognition) on provided image
 ```python
 import requests
 import base64
-import json
+
 
 REQ_URL = 'http://ip:port/ocr'
 
