@@ -122,21 +122,21 @@ We use a two stage process to perform OCR on the images. The first stage is to d
 The following images are used in the example usage:
 
 - Mode 1 Images:
-  - ![1.jpg](./assets/mode1/1.jpg)
-  - ![2.jpg](./assets/mode1/2.jpg)
-  - ![3.jpg](./assets/mode1/3.jpg)
-  - ![4.jpg](./assets/mode1/4.jpg)
-  - ![5.jpg](./assets/mode1/5.jpg)
-  - ![6.jpg](./assets/mode1/6.jpg)
+[1.jpg](./assets/mode1/1.jpg)
+![2.jpg](./assets/mode1/2.jpg)
+![3.jpg](./assets/mode1/3.jpg)
+![4.jpg](./assets/mode1/4.jpg)
+![5.jpg](./assets/mode1/5.jpg)
+![6.jpg](./assets/mode1/6.jpg)
 
 - Mode 2 Images:
-  - ![1.jpg](./assets/mode2/1.jpg)
-  - ![2.jpg](./assets/mode2/2.jpg)
-  - ![3.jpg](./assets/mode2/3.jpg)
-  - ![4.jpg](./assets/mode2/4.jpg)
-  - ![5.jpg](./assets/mode2/5.jpg)
-  - ![6.jpg](./assets/mode2/6.jpg)
-  - ![7.jpg](./assets/mode2/7.jpg)
-  - ![8.jpg](./assets/mode2/8.jpg)
+![1.jpg](./assets/mode2/1.jpg)
+![2.jpg](./assets/mode2/2.jpg)
+![3.jpg](./assets/mode2/3.jpg)
+![4.jpg](./assets/mode2/4.jpg)
+![5.jpg](./assets/mode2/5.jpg)
+![6.jpg](./assets/mode2/6.jpg)
+![7.jpg](./assets/mode2/7.jpg)
+![8.jpg](./assets/mode2/8.jpg)
 
 
