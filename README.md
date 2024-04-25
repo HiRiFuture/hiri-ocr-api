@@ -122,7 +122,7 @@ We use a two stage process to perform OCR on the images. The first stage is to d
 The following images are used in the example usage:
 
 - Mode 1 Images:
-[1.jpg](./assets/mode1/1.jpg)
+![1.jpg](./assets/mode1/1.jpg)
 ![2.jpg](./assets/mode1/2.jpg)
 ![3.jpg](./assets/mode1/3.jpg)
 ![4.jpg](./assets/mode1/4.jpg)
