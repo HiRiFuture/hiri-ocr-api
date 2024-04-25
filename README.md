@@ -112,7 +112,7 @@ image_paths = [
 test_ocr_middleware(mode, image_paths)
 ```
 
-## Sample Images
+## Camera Position and Sample Images
 The camera installation positions is shown in the following image:
 ![camera_positions.png](./assets/camera_position.png)
 
